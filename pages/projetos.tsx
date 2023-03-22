@@ -17,7 +17,7 @@ export default function Projetos() {
                 </Link>
                 <Link href="/githubapi" className="w-3/4 sm:w-1/2">
                     <h1 className="text-center rounded-full ease-in duration-1000 hover:text-stone-700 hover:bg-slate-300 text-3xl p-3 bg-slate-600 text-slate-400">
-                        GITHUB-API
+                        GITHUB
                     </h1>
                 </Link>
             </div>
