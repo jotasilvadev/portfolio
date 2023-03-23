@@ -21,7 +21,7 @@ export default function Pokeapi() {
                         <p className="text-justify">
                             Projeto realizado como teste técnico. Essa aplicação
                             é uma front-end desenvolvida para interagir com uma
-                            API RESTful que exige posts de um blog e seus
+                            API RESTful que exibe posts de um blog e seus
                             comentários, além do nome e contato dos escritores
                             do blog.
                         </p>
