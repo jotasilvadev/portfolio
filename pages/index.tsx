@@ -17,7 +17,7 @@ export default function Home() {
               />
               <link rel="icon" href="/favicon.ico" />
           </Head>
-          <div className="flex justify-center flex-col items-center gap-y-6 shadow-xl bg-slate-400 p-5 rounded-xl">
+          <div className="flex justify-center flex-col items-center gap-y-6 shadow-black shadow-md border-slate-300 border-4 bg-slate-400 p-5 rounded-xl">
               <img
                   src="https://i.ibb.co/6Yz5jmv/Whats-App-Image-2023-03-20-at-22-49-41.jpg"
                   alt="Foto João Paulo da Silva"

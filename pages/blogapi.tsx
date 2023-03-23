@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ImExit } from "react-icons/im";
 
-export default function Githubapi() {
+export default function Pokeapi() {
     return (
         <div className="container p-10 lg:w-1/2 xl:w-2/5 2xl:w-1/3">
             <div className="flex justify-center flex-col items-center gap-y-2 shadow-black shadow-md border-slate-300 border-4 bg-slate-400 p-5 rounded-xl">
@@ -11,22 +11,24 @@ export default function Githubapi() {
                     </div>
                 </Link>
                 <a
-                    className="items-center flex flex-col"
-                    href="https://main.d2vudolrq1gmq2.amplifyapp.com/"
+                    className="flex flex-col gap-y-2"
+                    href="https://main.dsqkke435l193.amplifyapp.com/"
                 >
                     <div className="w-64 text-slate-800">
                         <h2 className="text-2xl font-bold text-slate-700 text-center">
-                            Github API
+                            Cat Blog
                         </h2>
-                        <p className="text-justify mb-2">
-                            Buscador de usuários do Github, que fornece os 10
-                            repositórios mais recentes utilizando a API do
-                            Github.
+                        <p className="text-justify">
+                            Projeto realizado como teste técnico. Essa aplicação
+                            é uma front-end desenvolvida para interagir com uma
+                            API RESTful que exige posts de um blog e seus
+                            comentários, além do nome e contato dos escritores
+                            do blog.
                         </p>
                     </div>
                     <img
-                        className="rounded-3xl shadow-xl w-52 md:w-60 xl:w-64"
-                        src="https://i.ibb.co/VC2pRfF/github-2.png"
+                        className="rounded-3xl shadow-xl w-64"
+                        src="https://i.ibb.co/Z20hWWJ/Screenshot-1.png"
                         alt=""
                     />
                 </a>
