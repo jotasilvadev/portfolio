@@ -12,22 +12,24 @@ export default function Githubapi() {
                 </Link>
                 <a
                     className="items-center flex flex-col"
-                    href="https://main.d2vudolrq1gmq2.amplifyapp.com/"
+                    href="https://www.silviovidracaria.com/"
                     target="_blank"
                 >
                     <div className="w-64 text-slate-800">
                         <h2 className="text-2xl font-bold text-slate-700 text-center">
-                            Github API
+                            Silvio Vidraçaria
                         </h2>
                         <p className="text-justify mb-2">
-                            Buscador de usuários do Github, que fornece os 10
-                            repositórios mais recentes utilizando a API do
-                            Github.
+                            Site para a empresa Silvio Vidraçaria, realizado
+                            utilizando NEXT.js e Tailwind, hospedagem e domínio
+                            realizados no AWS, otimização do SEO e consulta no
+                            google search engine, além de anúncios no google
+                            ads.
                         </p>
                     </div>
                     <img
                         className="rounded-3xl shadow-xl w-52 md:w-60 xl:w-64"
-                        src="https://i.ibb.co/VC2pRfF/github-2.png"
+                        src="https://i.ibb.co/zhkkNRh/silviovidracaria.png"
                         alt=""
                     />
                 </a>

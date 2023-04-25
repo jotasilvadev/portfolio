@@ -29,6 +29,15 @@ export default function Projetos() {
                         BLOG
                     </h1>
                 </Link>
+                <h1 className="text-2xl text-center font-bold text-slate-700">
+                    Site para cliente em Next.js como framework e Tailwind para
+                    estilização.
+                </h1>
+                <Link href="/vidracaria" className="w-3/4 sm:w-1/2">
+                    <h1 className="text-center rounded-full ease-in duration-1000 hover:text-stone-700 hover:bg-slate-300 text-3xl p-3 bg-slate-600 text-slate-400">
+                        SILVIO VIDRAÇARIA
+                    </h1>
+                </Link>
             </div>
         </div>
     );

@@ -13,6 +13,7 @@ export default function Pokeapi() {
                 <a
                     className="flex flex-col gap-y-2"
                     href="https://main.d3dwmzmm1q71g2.amplifyapp.com/"
+                    target="_blank"
                 >
                     <div className="w-64 text-slate-800">
                         <h2 className="text-2xl font-bold text-slate-700 text-center">

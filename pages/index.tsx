@@ -29,6 +29,9 @@ export default function Home() {
               <h2 className="p-2 text-3xl text-center text-slate-200">
                   Desenvolvedor Front-End
               </h2>
+              <h2 className="p-2 text-xl text-center text-slate-200">
+                  Next.js | Tailwind
+              </h2>
               <div className="p-2 flex text-5xl gap-x-8 text-slate-600">
                   <a
                       className="hover:opacity-25 ease-in duration-200"
