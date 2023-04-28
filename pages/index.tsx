@@ -30,7 +30,7 @@ export default function Home() {
                   Desenvolvedor Front-End
               </h2>
               <h2 className="p-2 text-xl text-center text-slate-200">
-                  Next.js | Tailwind
+                  Next.js | Tailwind | React
               </h2>
               <div className="p-2 flex text-5xl gap-x-8 text-slate-600">
                   <a
